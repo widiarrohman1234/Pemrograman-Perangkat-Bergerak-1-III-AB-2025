@@ -1,10 +1,10 @@
 void main() {
   print("Percabangan (branches)");
 
-  var nama = "Budi";
-  var jurusan = "Informatikaa";
-  var angkatan = 2019;
-  var statusPendaftaran = "CLOSEDs";
+  // var nama = "Budi";
+  // var jurusan = "Informatikaa";
+  // var angkatan = 2019;
+  // var statusPendaftaran = "CLOSEDs";
 
   // IF Statement
   // if(angkatan >= 2020){

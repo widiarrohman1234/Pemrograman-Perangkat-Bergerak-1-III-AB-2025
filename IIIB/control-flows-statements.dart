@@ -49,7 +49,7 @@ void main() {
   /**
  * Break and Continue
  */
-  var mahasiswa = ['Andi', 'Budi', 'Citra', 'Dewi', "Widi"]; // array
+  // var mahasiswa = ['Andi', 'Budi', 'Citra', 'Dewi', "Widi"]; // array
 
   // // break: contoh pencarian
   // String cari = "Dewi";

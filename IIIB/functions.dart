@@ -28,7 +28,7 @@ void cetakListMahasiswa(List<String> daftar){
 // 6. Fungsi main sebagai titik awal
 void main() {
   print("=== Program Pendataan Mahasiswa ===");
-  int tahunLahir = 2000;
+  // int tahunLahir = 2000;
 
   // Fungsi biasa
   // print("Umur Budi: ${hitungUmurTahunLahir(tahunLahir)} tahun");
