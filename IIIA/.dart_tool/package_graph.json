@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "PBB_pertemuan_1"
+  ],
+  "packages": [
+    {
+      "name": "PBB_pertemuan_1",
+      "version": "1.0.0+1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

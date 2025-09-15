@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "PBB_pertemuan_1",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.9.0",
+  "flutterRoot": "file:///C:/Users/irium/flutter",
+  "flutterVersion": "3.35.2",
+  "pubCache": "file:///C:/Users/irium/AppData/Local/Pub/Cache"
+}
