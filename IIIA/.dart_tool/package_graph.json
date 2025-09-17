@@ -1,13 +1,39 @@
 {
   "roots": [
-    "PBB_pertemuan_1"
+    "belajar_pbb1_IIIA"
   ],
   "packages": [
     {
-      "name": "PBB_pertemuan_1",
+      "name": "belajar_pbb1_IIIA",
       "version": "1.0.0+1",
-      "dependencies": [],
+      "dependencies": [
+        "intl"
+      ],
       "devDependencies": []
+    },
+    {
+      "name": "intl",
+      "version": "0.20.2",
+      "dependencies": [
+        "clock",
+        "meta",
+        "path"
+      ]
+    },
+    {
+      "name": "clock",
+      "version": "1.1.2",
+      "dependencies": []
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "dependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.17.0",
+      "dependencies": []
     }
   ],
   "configVersion": 1

@@ -1,4 +1,4 @@
-name: PBB_pertemuan_1
+name: belajar_pbb1_IIIA
 description: A new Flutter project.
 
 publish_to: none
@@ -8,13 +8,13 @@ environment:
   sdk: ^3.9.0
 
 dependencies:
-  # intl: ^0.20.2
-#   flutter:       # Required for every Flutter project
-#     sdk: flutter # Required for every Flutter project
-#   flutter_localizations: # Required to enable localization
-#     sdk: flutter         # Required to enable localization
+  intl: ^0.20.2
+  # flutter:       # Required for every Flutter project
+  #   sdk: flutter # Required for every Flutter project
+  # flutter_localizations: # Required to enable localization
+  #   sdk: flutter         # Required to enable localization
 
-#   cupertino_icons: ^1.0.8 # Only required if you use Cupertino (iOS style) icons
+  # cupertino_icons: ^1.0.8 # Only required if you use Cupertino (iOS style) icons
 
 # dev_dependencies:
 #   flutter_test:

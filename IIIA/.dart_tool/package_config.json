@@ -2,7 +2,31 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "PBB_pertemuan_1",
+      "name": "clock",
+      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "belajar_pbb1_IIIA",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.9"

@@ -3,10 +3,9 @@ bool isValidEmail(String email) {
   return regex.hasMatch(email);
 }
 
-// fungsi pengecekan password
 bool isPasswordStrong(String password) {
   return password.length >= 8 &&
       password.contains(RegExp(r'[A-Z]')) &&
       password.contains(RegExp(r'[a-z]')) &&
       password.contains(RegExp(r'[0-9]'));
-} //True atau False (Boolean)
+}
