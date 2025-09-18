@@ -3,25 +3,25 @@
   "packages": [
     {
       "name": "clock",
-      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
+      "rootUri": "file:///C:/Users/widia/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
+      "rootUri": "file:///C:/Users/widia/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+      "rootUri": "file:///C:/Users/widia/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Users/irium/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
+      "rootUri": "file:///C:/Users/widia/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -33,8 +33,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.9.0",
-  "flutterRoot": "file:///C:/Users/irium/flutter",
-  "flutterVersion": "3.35.2",
-  "pubCache": "file:///C:/Users/irium/AppData/Local/Pub/Cache"
+  "generatorVersion": "3.9.2",
+  "flutterRoot": "file:///C:/Users/widia/flutter",
+  "flutterVersion": "3.35.3",
+  "pubCache": "file:///C:/Users/widia/AppData/Local/Pub/Cache"
 }
