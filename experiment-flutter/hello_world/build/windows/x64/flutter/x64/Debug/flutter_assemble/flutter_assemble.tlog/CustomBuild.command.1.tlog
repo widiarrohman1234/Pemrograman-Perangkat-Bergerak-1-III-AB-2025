@@ -1,0 +1,28 @@
+^D:\POLITAP\PEMROGRAMAN PERANGKAT BERGERAK 1 (III AB) 2025\SOURCE-CODE\EXPERIMENT-FLUTTER\HELLO_WORLD\BUILD\WINDOWS\X64\CMAKEFILES\6DA8C2C68C5F24439351D5696C45D9A8\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\irium\flutter "PROJECT_DIR=D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world" FLUTTER_ROOT=C:\Users\irium\flutter "FLUTTER_EPHEMERAL_DIR=D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\ephemeral" "PROJECT_DIR=D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world" "FLUTTER_TARGET=D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\lib\main.dart" DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzUuMg==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MDVkYjk2ODkwOA==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YThiZmRmYzM5NA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My45LjA= DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\.dart_tool\package_config.json" C:/Users/irium/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\POLITAP\PEMROGRAMAN PERANGKAT BERGERAK 1 (III AB) 2025\SOURCE-CODE\EXPERIMENT-FLUTTER\HELLO_WORLD\BUILD\WINDOWS\X64\CMAKEFILES\28A6A2E48618199B2FF57BE6D7B604B9\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\POLITAP\PEMROGRAMAN PERANGKAT BERGERAK 1 (III AB) 2025\SOURCE-CODE\EXPERIMENT-FLUTTER\HELLO_WORLD\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/windows" "-BD:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64" --check-stamp-file "D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

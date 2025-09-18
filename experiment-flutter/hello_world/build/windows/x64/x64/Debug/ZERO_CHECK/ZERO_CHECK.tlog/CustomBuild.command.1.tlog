@@ -1,0 +1,10 @@
+^D:\POLITAP\PEMROGRAMAN PERANGKAT BERGERAK 1 (III AB) 2025\SOURCE-CODE\EXPERIMENT-FLUTTER\HELLO_WORLD\BUILD\WINDOWS\X64\CMAKEFILES\DF32785A1C3CD25BA6EF1056932AC80F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/windows" "-BD:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/hello_world.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

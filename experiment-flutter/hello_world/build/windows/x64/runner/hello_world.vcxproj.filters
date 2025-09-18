@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{39D75195-6E0F-32B2-BD91-34205DE78D2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

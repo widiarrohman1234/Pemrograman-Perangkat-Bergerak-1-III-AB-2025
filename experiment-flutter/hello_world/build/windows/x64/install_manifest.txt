@@ -1,0 +1,11 @@
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

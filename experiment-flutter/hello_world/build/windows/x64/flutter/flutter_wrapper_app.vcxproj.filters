@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\POLITAP\Pemrograman Perangkat Bergerak 1 (III AB) 2025\source-code\experiment-flutter\hello_world\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A31C8DEC-A1F7-3274-AB98-561501E22857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{39D75195-6E0F-32B2-BD91-34205DE78D2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/CMakeFiles/hello_world.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/POLITAP/Pemrograman Perangkat Bergerak 1 (III AB) 2025/source-code/experiment-flutter/hello_world/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
