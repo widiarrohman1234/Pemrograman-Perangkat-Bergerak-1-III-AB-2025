@@ -1,4 +1,3 @@
-import '../main.dart';
 
 class POS {
   // Static variable untuk semua transaksi (tidak berubah per instance)

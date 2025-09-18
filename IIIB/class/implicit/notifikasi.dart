@@ -1,4 +1,3 @@
-import 'dart:io';
 
 class Notifier {
   // metode publik yang harus diimplementasikan oleh setiap Notifier
